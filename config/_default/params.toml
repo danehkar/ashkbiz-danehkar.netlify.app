@@ -277,7 +277,6 @@ plugins_js  = []
   google_tag_manager = ""
   google_site_verification = "A5ECreEtGBVPcR-5N_9DdF31PbARZXKqKGm6pcvkimM"
   microsoft_clarity = ""
-  msvalidate.01 = "9FBB288F1180F3C2A55231499D2CE4E0"
 
 ############################
 ## Content Management System
