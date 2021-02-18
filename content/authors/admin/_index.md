@@ -74,4 +74,4 @@ Ashkbiz Danehkar is a Research Fellow of astrophysics at the University of Michi
 
 To perform his research, he uses plasma diagnostics, abundance analysis, photoionization modeling, hydrodynamic simulations, and 3D morpho-kinematic modeling.
 
-#{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+<!--- {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
