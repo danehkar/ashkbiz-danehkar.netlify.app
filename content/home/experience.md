@@ -44,7 +44,7 @@ experience:
     location: Sydney, Australia
     date_start: '2010-04-01'
     date_end: '2014-05-24'
-    description: plasma diagnostics and 3-D photoionization modeling of nebular emission lines, and IFU spectroscopy of ionized nebulae.
+    description: Plasma diagnostics and 3-D photoionization modeling of nebular emission lines, and IFU spectroscopy of ionized nebulae.
 ---
 <!--  - title: CEO
     company: GenCoin
