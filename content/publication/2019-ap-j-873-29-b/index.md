@@ -19,7 +19,7 @@ tags:
 - '"Astrophysics - Astrophysics of Galaxies"'
 categories: []
 date: '2019-03-01'
-lastmod: 2021-02-18T15:40:19-05:00
+lastmod: 2021-02-18T15:48:37-05:00
 featured: false
 draft: false
 
@@ -37,7 +37,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-02-18T20:40:19.765369Z'
+publishDate: '2021-02-18T20:48:36.940820Z'
 publication_types:
 - '2'
 abstract: We present the spectral analysis of Chandra/High Energy Transmission Grating
@@ -55,6 +55,6 @@ abstract: We present the spectral analysis of Chandra/High Energy Transmission G
   detected in PDS 456. These two relativistic components of the UFO observed in the
   three epochs analyzed in this paper are powerful enough to impact the host galaxy
   of PDS 456 through feedback from active galactic nuclei.
-publication: '*apj*'
+publication: '*The Astrophysical Journal*'
 doi: 10.3847/1538-4357/ab0082
 ---

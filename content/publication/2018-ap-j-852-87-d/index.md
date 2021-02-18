@@ -17,7 +17,7 @@ tags:
 - '"Astrophysics - Astrophysics of Galaxies"'
 categories: []
 date: '2018-01-01'
-lastmod: 2021-02-18T15:40:21-05:00
+lastmod: 2021-02-18T15:48:38-05:00
 featured: false
 draft: false
 
@@ -35,7 +35,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-02-18T20:40:20.976518Z'
+publishDate: '2021-02-18T20:48:38.224499Z'
 publication_types:
 - '2'
 abstract: 'The planetary nebula (PN) NGC 5189 around a Wolf-Rayet [WO] central star
@@ -58,6 +58,6 @@ abstract: 'The planetary nebula (PN) NGC 5189 around a Wolf-Rayet [WO] central s
   along a symmetric axis. Our diagnostic mapping using high-angular resolution line-emission
   imaging can provide a novel approach to detection of low-ionization regions in other
   PNe, especially those showing a complex multiscale morphology.'
-publication: '*apj*'
+publication: '*The Astrophysical Journal*'
 doi: 10.3847/1538-4357/aa9e8c
 ---

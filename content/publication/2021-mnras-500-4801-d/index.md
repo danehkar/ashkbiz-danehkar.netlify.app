@@ -19,7 +19,7 @@ tags:
 - '"Astrophysics - Solar and Stellar Astrophysics"'
 categories: []
 date: '2021-02-01'
-lastmod: 2021-02-18T15:40:19-05:00
+lastmod: 2021-02-18T15:48:36-05:00
 featured: false
 draft: false
 
@@ -37,7 +37,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-02-18T20:40:18.953489Z'
+publishDate: '2021-02-18T20:48:36.080767Z'
 publication_types:
 - '2'
 abstract: RT Cru belongs to the rare class of hard X-ray emitting symbiotics, whose
@@ -59,6 +59,6 @@ abstract: RT Cru belongs to the rare class of hard X-ray emitting symbiotics, wh
   or dense absorber, which was twice as bright in the HRC-S epoch compared to the
   ACIS-S. The soft thermal component identified in the HRC-S might be an indication
   of a jet that deserves further evaluations using high-resolution imaging observations.
-publication: '*mnras*'
+publication: '*Monthly Notices of the Royal Astronomical Society*'
 doi: 10.1093/mnras/staa3554
 ---

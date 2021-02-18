@@ -13,7 +13,7 @@ tags:
 - '"Astrophysics - Solar and Stellar Astrophysics"'
 categories: []
 date: '2017-10-01'
-lastmod: 2021-02-18T15:40:21-05:00
+lastmod: 2021-02-18T15:48:38-05:00
 featured: false
 draft: false
 
@@ -31,7 +31,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-02-18T20:40:21.107320Z'
+publishDate: '2021-02-18T20:48:38.367385Z'
 publication_types:
 - '2'
 abstract: The nonlinear propagation of electrostatic solitary waves is studied in

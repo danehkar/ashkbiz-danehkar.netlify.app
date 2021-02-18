@@ -14,7 +14,7 @@ tags:
 - '"Astrophysics - Astrophysics of Galaxies"'
 categories: []
 date: '2015-12-01'
-lastmod: 2021-02-18T15:40:21-05:00
+lastmod: 2021-02-18T15:48:38-05:00
 featured: false
 draft: false
 
@@ -32,7 +32,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-02-18T20:40:21.374117Z'
+publishDate: '2021-02-18T20:48:38.653415Z'
 publication_types:
 - '2'
 abstract: We present a comprehensive set of spatially resolved, integral field spectroscopic
@@ -47,6 +47,6 @@ abstract: We present a comprehensive set of spatially resolved, integral field s
   the range of 70-110 km s$^-1$, with respect to the central star. The relationship
   between its morpho-kinematic structure and peculiar [WO]-type stellar characteristics
   deserves further investigation.
-publication: '*apj*'
+publication: '*The Astrophysical Journal*'
 doi: 10.1088/0004-637X/815/1/35
 ---

@@ -22,7 +22,7 @@ tags:
 - '"Astrophysics - High Energy Astrophysical Phenomena"'
 categories: []
 date: '2018-02-01'
-lastmod: 2021-02-18T15:40:20-05:00
+lastmod: 2021-02-18T15:48:37-05:00
 featured: false
 draft: false
 
@@ -40,7 +40,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-02-18T20:40:20.571546Z'
+publishDate: '2021-02-18T20:48:37.796701Z'
 publication_types:
 - '2'
 abstract: We observed the quasar PG 1211+143 using the Cosmic Origins Spectrograph
@@ -59,6 +59,6 @@ abstract: We observed the quasar PG 1211+143 using the Cosmic Origins Spectrogra
   to PG 1211+143. Such a simultaneous detection in two independent wavebands for the
   first time gives strong confirmation of the reality of an ultrafast outflow in an
   active galactic nucleus.
-publication: '*apj*'
+publication: '*The Astrophysical Journal*'
 doi: 10.3847/1538-4357/aaa42b
 ---

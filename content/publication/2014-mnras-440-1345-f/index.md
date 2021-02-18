@@ -22,7 +22,7 @@ tags:
 - '"Astrophysics - Solar and Stellar Astrophysics"'
 categories: []
 date: '2014-05-01'
-lastmod: 2021-02-18T15:40:21-05:00
+lastmod: 2021-02-18T15:48:39-05:00
 featured: false
 draft: false
 
@@ -40,7 +40,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-02-18T20:40:21.644341Z'
+publishDate: '2021-02-18T20:48:38.938270Z'
 publication_types:
 - '2'
 abstract: We have conducted a detailed multi-wavelength study of the peculiar nebula
@@ -65,6 +65,6 @@ abstract: We have conducted a detailed multi-wavelength study of the peculiar ne
   evidence for two distinct helium- dominated post-AGB lineages, separate to the helium-
   and carbon- dominated surface compositions produced by a late thermal pulse. Further
   theoretical work is needed to explain these recent discoveries.
-publication: '*mnras*'
+publication: '*Monthly Notices of the Royal Astronomical Society*'
 doi: 10.1093/mnras/stu198
 ---

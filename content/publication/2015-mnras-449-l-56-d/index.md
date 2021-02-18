@@ -15,7 +15,7 @@ tags:
 - '"Astrophysics - Solar and Stellar Astrophysics"'
 categories: []
 date: '2015-04-01'
-lastmod: 2021-02-18T15:40:21-05:00
+lastmod: 2021-02-18T15:48:38-05:00
 featured: false
 draft: false
 
@@ -33,7 +33,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-02-18T20:40:21.508321Z'
+publishDate: '2021-02-18T20:48:38.796447Z'
 publication_types:
 - '2'
 abstract: We have performed integral field spectroscopy of the planetary nebulae Hen
@@ -48,6 +48,6 @@ abstract: We have performed integral field spectroscopy of the planetary nebulae
   lobes of Hen 3-1333 and Hen 2-113 were found to have inclination angles of about
   -30° and 40° relative to the line of sight, and position angles of -15° and 65°
   measured east of north in the equatorial coordinate system, respectively.
-publication: '*mnras*'
+publication: '*Monthly Notices of the Royal Astronomical Society*'
 doi: 10.1093/mnrasl/slv022
 ---

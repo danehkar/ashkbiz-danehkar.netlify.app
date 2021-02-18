@@ -30,7 +30,7 @@ tags:
 - '"Physics - Plasma Physics"'
 categories: []
 date: '2011-07-01'
-lastmod: 2021-02-18T15:40:22-05:00
+lastmod: 2021-02-18T15:48:39-05:00
 featured: false
 draft: false
 
@@ -48,7 +48,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-02-18T20:40:22.047283Z'
+publishDate: '2021-02-18T20:48:39.369441Z'
 publication_types:
 - '2'
 abstract: The nonlinear dynamics of electron-acoustic localized structures in a collisionless

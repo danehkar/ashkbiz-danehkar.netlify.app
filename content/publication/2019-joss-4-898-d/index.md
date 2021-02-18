@@ -19,7 +19,7 @@ tags:
 - '"Astrophysics - Solar and Stellar Astrophysics"'
 categories: []
 date: '2019-03-01'
-lastmod: 2021-02-18T15:40:19-05:00
+lastmod: 2021-02-18T15:48:36-05:00
 featured: false
 draft: false
 
@@ -37,7 +37,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-02-18T20:40:19.627266Z'
+publishDate: '2021-02-18T20:48:36.797067Z'
 publication_types:
 - '2'
 abstract: Spectra emitted from ionized nebulae typically contain collisionally excited

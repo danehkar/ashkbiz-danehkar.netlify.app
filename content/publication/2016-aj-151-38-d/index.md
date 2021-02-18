@@ -16,7 +16,7 @@ tags:
 - '"Astrophysics - Astrophysics of Galaxies"'
 categories: []
 date: '2016-02-01'
-lastmod: 2021-02-18T15:40:21-05:00
+lastmod: 2021-02-18T15:48:38-05:00
 featured: false
 draft: false
 
@@ -34,7 +34,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-02-18T20:40:21.240644Z'
+publishDate: '2021-02-18T20:48:38.508548Z'
 publication_types:
 - '2'
 abstract: Spatially resolved observations of the planetary nebula M2-42 (PN G008.2-04.8)
@@ -52,6 +52,6 @@ abstract: Spatially resolved observations of the planetary nebula M2-42 (PN G008
   their singly ionized nitrogen and sulfur abundances are about three times higher
   than those determined from the dense shell. The results indicate that the features
   of the collimated jets are typical of fast, low-ionization emission regions.
-publication: '*aj*'
+publication: '*The Astronomical Journal*'
 doi: 10.3847/0004-6256/151/2/38
 ---

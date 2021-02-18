@@ -17,7 +17,7 @@ tags:
 - '"Astrophysics - High Energy Astrophysical Phenomena"'
 categories: []
 date: '2020-01-01'
-lastmod: 2021-02-18T15:40:19-05:00
+lastmod: 2021-02-18T15:48:36-05:00
 featured: false
 draft: false
 
@@ -35,7 +35,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-02-18T20:40:19.357624Z'
+publishDate: '2021-02-18T20:48:36.509669Z'
 publication_types:
 - '2'
 abstract: Local conformal symmetry introduces the conformal curvature (Weyl tensor)

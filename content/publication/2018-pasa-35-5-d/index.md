@@ -14,7 +14,7 @@ tags:
 - '"Astrophysics - Astrophysics of Galaxies"'
 categories: []
 date: '2018-01-01'
-lastmod: 2021-02-18T15:40:20-05:00
+lastmod: 2021-02-18T15:48:38-05:00
 featured: false
 draft: false
 
@@ -32,7 +32,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-02-18T20:40:20.844651Z'
+publishDate: '2021-02-18T20:48:38.083052Z'
 publication_types:
 - '2'
 abstract: The planetary nebula PB 8 around a [WN/WC]-hybrid central star is one of
@@ -55,6 +55,6 @@ abstract: The planetary nebula PB 8 around a [WN/WC]-hybrid central star is one 
   This study demonstrates that the bi-abundance hypothesis, which was examined in
   a few planetary nebulae with large abundance discrepancies (ADFs $gt$ 10), could
   also be applied to those typical planetary nebulae with moderate abundance discrepancies.
-publication: '*pasa*'
+publication: '*Publications of the Astronomical Society of Australia*'
 doi: 10.1017/pasa.2018.1
 ---

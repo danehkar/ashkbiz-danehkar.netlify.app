@@ -15,7 +15,7 @@ tags:
 - '"Astrophysics - Solar and Stellar Astrophysics"'
 categories: []
 date: '2013-09-01'
-lastmod: 2021-02-18T15:40:22-05:00
+lastmod: 2021-02-18T15:48:39-05:00
 featured: false
 draft: false
 
@@ -33,7 +33,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-02-18T20:40:21.915186Z'
+publishDate: '2021-02-18T20:48:39.227507Z'
 publication_types:
 - '2'
 abstract: The planetary nebula SuWt 2 (PN G311.0+02.4) is an unusual object with a
@@ -58,6 +58,6 @@ abstract: The planetary nebula SuWt 2 (PN G311.0+02.4) is an unusual object with
   mass of ensuremath∼0.64 M$_☉$, which originated from an ensuremath∼3 M$_☉$ progenitor.
   The evolutionary time- scales suggest that the central star left the asymptotic
   giant branch about 25 000 yr ago, which is consistent with the nebula's age.
-publication: '*mnras*'
+publication: '*Monthly Notices of the Royal Astronomical Society*'
 doi: 10.1093/mnras/stt1116
 ---

@@ -27,7 +27,7 @@ tags:
 - '"Astrophysics - Astrophysics of Galaxies"'
 categories: []
 date: '2018-02-01'
-lastmod: 2021-02-18T15:40:20-05:00
+lastmod: 2021-02-18T15:48:38-05:00
 featured: false
 draft: false
 
@@ -45,7 +45,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-02-18T20:40:20.707313Z'
+publishDate: '2021-02-18T20:48:37.941281Z'
 publication_types:
 - '2'
 abstract: We present a detailed X-ray spectral study of the quasar PG 1211+143 based
@@ -68,6 +68,6 @@ abstract: We present a detailed X-ray spectral study of the quasar PG 1211+143 b
   UV observations. Our VLA observations provide evidence for an active jet in PG 1211+143,
   which may be connected to the X-ray and UV outflows; this possibility can be evaluated
   using very- long-baseline interferometric observations.
-publication: '*apj*'
+publication: '*The Astrophysical Journal*'
 doi: 10.3847/1538-4357/aaa427
 ---
