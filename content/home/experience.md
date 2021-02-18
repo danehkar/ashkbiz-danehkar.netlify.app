@@ -27,7 +27,7 @@ experience:
     company: University of Michigan
     company_url: ''
     location: Ann Arbor, MI
-    date_start: '2019'
+    date_start: '2019-01-01'
     date_end: ''
     description: Hydrodynamic simulations and photoionization modeling of superwinds and superbubbles.
     
@@ -35,16 +35,16 @@ experience:
     company: Harvard-Smithsonian Center for Astrophysics
     company_url: ''
     location: Cambridge, MA
-    date_start: '2015'
-    date_end: '2018'
+    date_start: '2015-09-01'
+    date_end: '2018-08-31'
     description: X-ray spectral data analysis and photoionization modeling of X-ray outflows of Seyfert I AGN.
     
   - title: PhD Student
     company: Macquarie University
     company_url: ''
     location: Sydney, Australia
-    date_start: '2010'
-    date_end: '2014'
+    date_start: '2010-04-01'
+    date_end: '2014-05-24'
     description: plasma diagnostics and 3-D photoionization modeling of nebular emission lines, and IFU spectroscopy of ionized nebulae.
 ---
 <!--  - title: CEO
