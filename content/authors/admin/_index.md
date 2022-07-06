@@ -6,12 +6,12 @@ title: Ashkbiz Danehkar
 superuser: true
 
 # Role/position/tagline
-role: Research Fellow in Astrophysics
+role: Research Scientist in Astrophysics
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: University of Michigan
-  url: https://sites.lsa.umich.edu/danehkar/
+- name: Eureka Scientific, Inc.
+  url: https://www.danehkar.net/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include observational and theoretical astrophysics.
@@ -21,6 +21,7 @@ interests:
 - Nebular Astrophysics
 - Ultra-fast Outflows in AGN
 - Superwinds from Starburst
+- Black Hole Astrophysics
 
 # Education to show in About widget
 education:
@@ -31,9 +32,6 @@ education:
   - course: MSc in Plasma Physics
     institution: Queen's University Belfast
     year: 2009
-  - course: MSc in Computational Engineering
-    institution: University of Rostock
-    year: 2007
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -70,7 +68,7 @@ email: ""
 highlight_name: false
 ---
 
-Ashkbiz Danehkar is a Research Fellow in Astrophysics at the University of Michigan. His research interests include observational and theoretical astrophysics of ionized nebulae, symbiotics, AGN, and starbursts, using multi-wavelength optical, UV and X-ray spectroscopic and imaging observations.
+Ashkbiz Danehkar is a Research Scientist in Astrophysics at Eureka Scientific supported by a NASA grant. His research interests include observational and theoretical astrophysics of ionized nebulae, symbiotics, AGN, and starbursts, using multi-wavelength optical, UV and X-ray spectroscopic and imaging observations.
 
 To perform his research, he uses plasma diagnostics, abundance analysis, photoionization modeling, hydrodynamic simulations, and 3D morpho-kinematic modeling.
 
