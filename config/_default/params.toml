@@ -88,19 +88,19 @@ show_related = {book = true, page = false, post = false, project = false, public
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "danehkar [at] umich [dot] edu"
+email = "danehkar [at] eurekasci [dot] com"
 phone = "617 955 0606"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "1085 S University Ave", city = "Ann Arbor", region = "MI", postcode = "48109", country = "United States", country_code = "US"}
+address = {street = "Eureka Scientific, 2452 Delmer St Suite 100", city = "Oakland", region = "CA", postcode = "94602", country = "United States", country_code = "US"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
 coordinates = {latitude = "42.2757556", longitude = "-83.7383928"}
 
 # Directions for visitors to locate you.
-directions = "Enter the West Hall Building and take the stairs to Office 405A on Floor 4"
+directions = "Currently in Ann Arbor, Michigan"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
