@@ -7,7 +7,7 @@ subtitle: ''
 summary: ''
 authors:
 - A. Danehkar
-- Q.~A. Parker
+- Q. A. Parker
 tags:
 - 'stars: Wolf-Rayet'
 - 'ISM: kinematics and dynamics'
@@ -15,7 +15,7 @@ tags:
 - Astrophysics - Solar and Stellar Astrophysics
 categories: []
 date: '2015-04-01'
-lastmod: 2022-07-06T00:00:53-04:00
+lastmod: 2022-07-06T00:07:05-04:00
 featured: false
 draft: false
 
@@ -33,7 +33,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-07-06T04:00:53.076777Z'
+publishDate: '2022-07-06T04:07:05.208294Z'
 publication_types:
 - '2'
 abstract: We have performed integral field spectroscopy of the planetary nebulae Hen

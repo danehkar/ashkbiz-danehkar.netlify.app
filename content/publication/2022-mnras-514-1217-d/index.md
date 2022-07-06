@@ -16,7 +16,7 @@ tags:
 - Astrophysics - Astrophysics of Galaxies
 categories: []
 date: '2022-07-01'
-lastmod: 2022-07-06T00:00:51-04:00
+lastmod: 2022-07-06T00:07:03-04:00
 featured: false
 draft: false
 
@@ -34,7 +34,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-07-06T04:00:51.077472Z'
+publishDate: '2022-07-06T04:07:03.203094Z'
 publication_types:
 - '2'
 abstract: 'The planetary nebula (PN) IC 4997 is one of a few rapidly evolving objects
@@ -54,7 +54,7 @@ abstract: 'The planetary nebula (PN) IC 4997 is one of a few rapidly evolving ob
   7. Further research is needed to find out how the ADFs and variable emissions are
   formed in this object and whether they are associated with a binary companion or
   a very late thermal pulse.'
-publication: '*mnras*'
+publication: '*Monthly Notices of the Royal Astronomical Society*'
 doi: 10.1093/mnras/stac1364
 links:
 - name: arXiv

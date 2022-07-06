@@ -6,7 +6,7 @@ subtitle: ''
 summary: ''
 authors:
 - A. Danehkar
-- Q.~A. Parker
+- Q. A. Parker
 - W. Steffen
 tags:
 - 'ISM: jets and outflows'
@@ -16,7 +16,7 @@ tags:
 - Astrophysics - Astrophysics of Galaxies
 categories: []
 date: '2016-02-01'
-lastmod: 2022-07-06T00:00:52-04:00
+lastmod: 2022-07-06T00:07:05-04:00
 featured: false
 draft: false
 
@@ -34,7 +34,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-07-06T04:00:52.925594Z'
+publishDate: '2022-07-06T04:07:05.061468Z'
 publication_types:
 - '2'
 abstract: Spatially resolved observations of the planetary nebula M2-42 (PN G008.2-04.8)

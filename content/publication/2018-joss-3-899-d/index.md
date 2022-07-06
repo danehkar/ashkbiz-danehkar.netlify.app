@@ -16,7 +16,7 @@ tags:
 - Astrophysics - Instrumentation and Methods for Astrophysics
 categories: []
 date: '2018-12-01'
-lastmod: 2022-07-06T00:00:52-04:00
+lastmod: 2022-07-06T00:07:04-04:00
 featured: false
 draft: false
 
@@ -34,7 +34,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-07-06T04:00:52.244649Z'
+publishDate: '2022-07-06T04:07:04.388244Z'
 publication_types:
 - '2'
 abstract: The emission lines emitted from gaseous nebulae carry valuable information

@@ -21,7 +21,7 @@ tags:
 - Astrophysics - Astrophysics of Galaxies
 categories: []
 date: '2022-05-01'
-lastmod: 2022-07-06T00:00:51-04:00
+lastmod: 2022-07-06T00:07:03-04:00
 featured: false
 draft: false
 
@@ -39,7 +39,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-07-06T04:00:51.223053Z'
+publishDate: '2022-07-06T04:07:03.344512Z'
 publication_types:
 - '2'
 abstract: The majority of planetary nebulae (PNs) show axisymmetric morphologies,
@@ -64,7 +64,7 @@ abstract: The majority of planetary nebulae (PNs) show axisymmetric morphologies
   The formation of aspherical morphologies and collimated outflows in these PNs could
   be related to the stellar evolution of hydrogen-deficient [WR] and wels nuclei,
   which require further investigation.
-publication: '*apjs*'
+publication: '*The Astrophysical Journal Supplement Series*'
 doi: 10.3847/1538-4365/ac5cca
 links:
 - name: arXiv

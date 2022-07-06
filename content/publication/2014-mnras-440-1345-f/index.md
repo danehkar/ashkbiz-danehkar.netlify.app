@@ -6,13 +6,13 @@ subtitle: ''
 summary: ''
 authors:
 - David J. Frew
-- I.~S. Bojičić
-- Q.~A. Parker
+- I. S. Bojičić
+- Q. A. Parker
 - M. Stupar
 - S. Wachter
 - K. DePew
 - A. Danehkar
-- M.~T. Fitzgerald
+- M. T. Fitzgerald
 - D. Douchin
 tags:
 - 'stars: evolution'
@@ -22,7 +22,7 @@ tags:
 - Astrophysics - Solar and Stellar Astrophysics
 categories: []
 date: '2014-05-01'
-lastmod: 2022-07-06T00:00:53-04:00
+lastmod: 2022-07-06T00:07:05-04:00
 featured: false
 draft: false
 
@@ -40,7 +40,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-07-06T04:00:53.147623Z'
+publishDate: '2022-07-06T04:07:05.293193Z'
 publication_types:
 - '2'
 abstract: We have conducted a detailed multi-wavelength study of the peculiar nebula

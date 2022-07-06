@@ -6,7 +6,7 @@ subtitle: ''
 summary: ''
 authors:
 - Ashkbiz Danehkar
-- M.~S. Oey
+- M. S. Oey
 - William J. Gray
 tags:
 - Superbubbles
@@ -30,7 +30,7 @@ tags:
 - Astrophysics - Astrophysics of Galaxies
 categories: []
 date: '2021-11-01'
-lastmod: 2022-07-06T00:00:51-04:00
+lastmod: 2022-07-06T00:07:03-04:00
 featured: false
 draft: false
 
@@ -48,7 +48,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-07-06T04:00:51.510270Z'
+publishDate: '2022-07-06T04:07:03.650786Z'
 publication_types:
 - '2'
 abstract: Superwinds and superbubbles driven by mechanical feedback from super star
@@ -70,7 +70,7 @@ abstract: Superwinds and superbubbles driven by mechanical feedback from super s
   the parameter space of catastrophically cooling flows. Comparison with observations
   suggests the possibility of minor density bounding, nonequilibrium ionization, and/or
   observational bias toward the central outflow regions.
-publication: '*apj*'
+publication: '*The Astrophysical Journal*'
 doi: 10.3847/1538-4357/ac1a76
 links:
 - name: arXiv

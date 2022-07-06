@@ -8,8 +8,8 @@ summary: ''
 authors:
 - A. Danehkar
 - M. Karovska
-- J.~J. Drake
-- V.~L. Kashyap
+- J. J. Drake
+- V. L. Kashyap
 tags:
 - accretion
 - accretion discs
@@ -19,7 +19,7 @@ tags:
 - Astrophysics - Solar and Stellar Astrophysics
 categories: []
 date: '2021-02-01'
-lastmod: 2022-07-06T00:00:51-04:00
+lastmod: 2022-07-06T00:07:03-04:00
 featured: false
 draft: false
 
@@ -37,7 +37,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-07-06T04:00:51.656755Z'
+publishDate: '2022-07-06T04:07:03.800750Z'
 publication_types:
 - '2'
 abstract: RT Cru belongs to the rare class of hard X-ray emitting symbiotics, whose

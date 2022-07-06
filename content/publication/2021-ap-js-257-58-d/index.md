@@ -15,7 +15,7 @@ tags:
 - Astrophysics - Astrophysics of Galaxies
 categories: []
 date: '2021-12-01'
-lastmod: 2022-07-06T00:00:51-04:00
+lastmod: 2022-07-06T00:07:03-04:00
 featured: false
 draft: false
 
@@ -33,7 +33,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-07-06T04:00:51.439057Z'
+publishDate: '2022-07-06T04:07:03.575537Z'
 publication_types:
 - '2'
 abstract: Wolf-Rayet ([WR]) and weak-emission-line (wels) central stars of planetary
@@ -56,7 +56,7 @@ abstract: Wolf-Rayet ([WR]) and weak-emission-line (wels) central stars of plane
   consistent with asymptotic giant branch models in the range of initial masses from
   1.5 to 5 M $_ensuremathødot$. Further studies are necessary to understand better
   the origins of abundance discrepancies in PNs around [WR] and wels stars.
-publication: '*apjs*'
+publication: '*The Astrophysical Journal Supplement Series*'
 doi: 10.3847/1538-4365/ac2310
 links:
 - name: arXiv

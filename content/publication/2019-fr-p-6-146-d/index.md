@@ -14,7 +14,7 @@ tags:
 - gauge fields
 categories: []
 date: '2019-01-01'
-lastmod: 2022-07-06T00:00:52-04:00
+lastmod: 2022-07-06T00:07:04-04:00
 featured: false
 draft: false
 
@@ -32,7 +32,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-07-06T04:00:52.174006Z'
+publishDate: '2022-07-06T04:07:04.315224Z'
 publication_types:
 - '2'
 abstract: Over the past two decades, electric-magnetic duality has made significant

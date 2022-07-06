@@ -17,7 +17,7 @@ tags:
 - Astrophysics - Astrophysics of Galaxies
 categories: []
 date: '2018-01-01'
-lastmod: 2022-07-06T00:00:52-04:00
+lastmod: 2022-07-06T00:07:04-04:00
 featured: false
 draft: false
 
@@ -35,7 +35,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-07-06T04:00:52.775502Z'
+publishDate: '2022-07-06T04:07:04.912030Z'
 publication_types:
 - '2'
 abstract: 'The planetary nebula (PN) NGC 5189 around a Wolf-Rayet [WO] central star

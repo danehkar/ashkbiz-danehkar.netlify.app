@@ -7,18 +7,18 @@ subtitle: ''
 summary: ''
 authors:
 - C. Bizdadea
-- E.~M. Cioroianu
+- E. M. Cioroianu
 - A. Danehkar
 - M. Iordache
-- S.~O. Saliu
-- S.~C. Săraru
+- S. O. Saliu
+- S. C. Săraru
 tags:
 - 11.10.Ef
 - High Energy Physics - Theory
 - General Relativity and Quantum Cosmology
 categories: []
 date: '2009-10-01'
-lastmod: 2022-07-06T00:00:53-04:00
+lastmod: 2022-07-06T00:07:05-04:00
 featured: false
 draft: false
 
@@ -36,7 +36,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-07-06T04:00:53.514848Z'
+publishDate: '2022-07-06T04:07:05.683881Z'
 publication_types:
 - '2'
 abstract: Under some plausible assumptions, we find that the dual formulation of linearized

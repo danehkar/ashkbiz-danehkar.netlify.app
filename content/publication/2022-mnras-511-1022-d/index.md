@@ -15,7 +15,7 @@ tags:
 - Astrophysics - Astrophysics of Galaxies
 categories: []
 date: '2022-03-01'
-lastmod: 2022-07-06T00:00:51-04:00
+lastmod: 2022-07-06T00:07:03-04:00
 featured: false
 draft: false
 
@@ -33,7 +33,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-07-06T04:00:51.294094Z'
+publishDate: '2022-07-06T04:07:03.419313Z'
 publication_types:
 - '2'
 abstract: The planetary nebula (PN) Abell 48 (PN G029.0+00.4) is around a rare Wolf-Rayet
@@ -54,7 +54,7 @@ abstract: The planetary nebula (PN) Abell 48 (PN G029.0+00.4) is around a rare W
   formed as a result of shock collisions with the interstellar medium. The torus-shaped
   morphology of this PN could be related to its unusual hydrogen-deficient [WN] nucleus
   that needs to be inspected further.
-publication: '*mnras*'
+publication: '*Monthly Notices of the Royal Astronomical Society*'
 doi: 10.1093/mnras/stab3735
 links:
 - name: arXiv
