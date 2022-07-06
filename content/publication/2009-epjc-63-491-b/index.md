@@ -13,12 +13,12 @@ authors:
 - S.~O. Saliu
 - S.~C. Săraru
 tags:
-- '"11.10.Ef"'
-- '"High Energy Physics - Theory"'
-- '"General Relativity and Quantum Cosmology"'
+- 11.10.Ef
+- High Energy Physics - Theory
+- General Relativity and Quantum Cosmology
 categories: []
 date: '2009-10-01'
-lastmod: 2021-02-18T15:48:39-05:00
+lastmod: 2022-07-06T00:00:53-04:00
 featured: false
 draft: false
 
@@ -36,7 +36,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-02-18T20:48:39.657083Z'
+publishDate: '2022-07-06T04:00:53.514848Z'
 publication_types:
 - '2'
 abstract: Under some plausible assumptions, we find that the dual formulation of linearized
@@ -46,4 +46,7 @@ abstract: Under some plausible assumptions, we find that the dual formulation of
   (2,1) gains some shift gauge transformations with parameters from the BF sector.
 publication: '*European Physical Journal C*'
 doi: 10.1140/epjc/s10052-009-1105-0
+links:
+- name: arXiv
+  url: https://arxiv.org/abs/0908.2169
 ---

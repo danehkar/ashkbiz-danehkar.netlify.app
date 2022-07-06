@@ -9,13 +9,13 @@ authors:
 - A. Danehkar
 - Q.~A. Parker
 tags:
-- '"stars: Wolf-Rayet"'
-- '"ISM: kinematics and dynamics"'
-- '"planetary nebulae: general"'
-- '"Astrophysics - Solar and Stellar Astrophysics"'
+- 'stars: Wolf-Rayet'
+- 'ISM: kinematics and dynamics'
+- 'planetary nebulae: general'
+- Astrophysics - Solar and Stellar Astrophysics
 categories: []
 date: '2015-04-01'
-lastmod: 2021-02-18T15:48:38-05:00
+lastmod: 2022-07-06T00:00:53-04:00
 featured: false
 draft: false
 
@@ -33,7 +33,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-02-18T20:48:38.796447Z'
+publishDate: '2022-07-06T04:00:53.076777Z'
 publication_types:
 - '2'
 abstract: We have performed integral field spectroscopy of the planetary nebulae Hen
@@ -50,4 +50,7 @@ abstract: We have performed integral field spectroscopy of the planetary nebulae
   measured east of north in the equatorial coordinate system, respectively.
 publication: '*Monthly Notices of the Royal Astronomical Society*'
 doi: 10.1093/mnrasl/slv022
+links:
+- name: arXiv
+  url: https://arxiv.org/abs/1503.01551
 ---

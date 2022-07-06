@@ -9,14 +9,14 @@ authors:
 - Q.~A. Parker
 - W. Steffen
 tags:
-- '"ISM: jets and outflows"'
-- '"planetary nebulae: individual: M2-42"'
-- '"stars: evolution"'
-- '"Astrophysics - Solar and Stellar Astrophysics"'
-- '"Astrophysics - Astrophysics of Galaxies"'
+- 'ISM: jets and outflows'
+- 'planetary nebulae: individual: M2-42'
+- 'stars: evolution'
+- Astrophysics - Solar and Stellar Astrophysics
+- Astrophysics - Astrophysics of Galaxies
 categories: []
 date: '2016-02-01'
-lastmod: 2021-02-18T15:48:38-05:00
+lastmod: 2022-07-06T00:00:52-04:00
 featured: false
 draft: false
 
@@ -34,7 +34,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-02-18T20:48:38.508548Z'
+publishDate: '2022-07-06T04:00:52.925594Z'
 publication_types:
 - '2'
 abstract: Spatially resolved observations of the planetary nebula M2-42 (PN G008.2-04.8)
@@ -54,4 +54,7 @@ abstract: Spatially resolved observations of the planetary nebula M2-42 (PN G008
   of the collimated jets are typical of fast, low-ionization emission regions.
 publication: '*The Astronomical Journal*'
 doi: 10.3847/0004-6256/151/2/38
+links:
+- name: arXiv
+  url: https://arxiv.org/abs/1601.01702
 ---

@@ -8,11 +8,11 @@ summary: ''
 authors:
 - A. Danehkar
 tags:
-- '"Physics - Plasma Physics"'
-- '"Astrophysics - High Energy Astrophysical Phenomena"'
+- Physics - Plasma Physics
+- Astrophysics - High Energy Astrophysical Phenomena
 categories: []
 date: '2018-06-01'
-lastmod: 2021-02-18T15:48:37-05:00
+lastmod: 2022-07-06T00:00:52-04:00
 featured: false
 draft: false
 
@@ -30,7 +30,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-02-18T20:48:37.513567Z'
+publishDate: '2022-07-06T04:00:52.396500Z'
 publication_types:
 - '2'
 abstract: Suprathermal electrons and inertial drifting electrons, so called electron
@@ -57,4 +57,7 @@ abstract: Suprathermal electrons and inertial drifting electrons, so called elec
   ratio.
 publication: '*Plasma Physics and Controlled Fusion*'
 doi: 10.1088/1361-6587/aabc40
+links:
+- name: arXiv
+  url: https://arxiv.org/abs/1804.07299
 ---

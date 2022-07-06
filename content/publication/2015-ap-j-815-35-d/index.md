@@ -7,14 +7,14 @@ summary: ''
 authors:
 - A. Danehkar
 tags:
-- '"ISM: jets and outflows"'
-- '"planetary nebulae: individual: Th 2-A"'
-- '"stars: Wolf–Rayet"'
-- '"Astrophysics - Solar and Stellar Astrophysics"'
-- '"Astrophysics - Astrophysics of Galaxies"'
+- 'ISM: jets and outflows'
+- 'planetary nebulae: individual: Th 2-A'
+- 'stars: Wolf–Rayet'
+- Astrophysics - Solar and Stellar Astrophysics
+- Astrophysics - Astrophysics of Galaxies
 categories: []
 date: '2015-12-01'
-lastmod: 2021-02-18T15:48:38-05:00
+lastmod: 2022-07-06T00:00:53-04:00
 featured: false
 draft: false
 
@@ -32,7 +32,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-02-18T20:48:38.653415Z'
+publishDate: '2022-07-06T04:00:52.996100Z'
 publication_types:
 - '2'
 abstract: We present a comprehensive set of spatially resolved, integral field spectroscopic
@@ -49,4 +49,7 @@ abstract: We present a comprehensive set of spatially resolved, integral field s
   deserves further investigation.
 publication: '*The Astrophysical Journal*'
 doi: 10.1088/0004-637X/815/1/35
+links:
+- name: arXiv
+  url: https://arxiv.org/abs/1512.02330
 ---

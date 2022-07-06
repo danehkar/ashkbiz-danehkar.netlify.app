@@ -30,7 +30,7 @@ tags:
 - Astrophysics - Astrophysics of Galaxies
 categories: []
 date: '2021-11-01'
-lastmod: 2022-07-05T23:48:43-04:00
+lastmod: 2022-07-06T00:00:51-04:00
 featured: false
 draft: false
 
@@ -48,7 +48,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-07-06T03:48:43.035522Z'
+publishDate: '2022-07-06T04:00:51.510270Z'
 publication_types:
 - '2'
 abstract: Superwinds and superbubbles driven by mechanical feedback from super star

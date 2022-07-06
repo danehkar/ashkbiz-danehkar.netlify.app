@@ -11,26 +11,26 @@ authors:
 - Manfred A. Hellberg
 - Ioannis Kourakis
 tags:
-- '"hot carriers"'
-- '"plasma electrostatic waves"'
-- '"plasma nonlinear processes"'
-- '"plasma solitons"'
-- '"52.35.Sb"'
-- '"52.35.Mw"'
-- '"52.35.Fp"'
-- '"72.30.+q"'
-- '"Solitons"'
-- '"BGK modes"'
-- '"Nonlinear phenomena: waves wave propagation and other interactions"'
-- '"Electrostatic waves and oscillations"'
-- '"High-frequency effects"'
-- '"plasma effects"'
-- '"Astrophysics - Solar and Stellar Astrophysics"'
-- '"Nonlinear Sciences - Pattern Formation and Solitons"'
-- '"Physics - Plasma Physics"'
+- hot carriers
+- plasma electrostatic waves
+- plasma nonlinear processes
+- plasma solitons
+- 52.35.Sb
+- 52.35.Mw
+- 52.35.Fp
+- 72.30.+q
+- Solitons
+- BGK modes
+- 'Nonlinear phenomena: waves wave propagation and other interactions'
+- Electrostatic waves and oscillations
+- High-frequency effects
+- plasma effects
+- Astrophysics - Solar and Stellar Astrophysics
+- Nonlinear Sciences - Pattern Formation and Solitons
+- Physics - Plasma Physics
 categories: []
 date: '2011-07-01'
-lastmod: 2021-02-18T15:48:39-05:00
+lastmod: 2022-07-06T00:00:53-04:00
 featured: false
 draft: false
 
@@ -48,7 +48,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-02-18T20:48:39.369441Z'
+publishDate: '2022-07-06T04:00:53.369994Z'
 publication_types:
 - '2'
 abstract: The nonlinear dynamics of electron-acoustic localized structures in a collisionless
@@ -67,4 +67,7 @@ abstract: The nonlinear dynamics of electron-acoustic localized structures in a 
   ensuremathkp̨a.
 publication: '*Physics of Plasmas*'
 doi: 10.1063/1.3606365
+links:
+- name: arXiv
+  url: https://arxiv.org/abs/1107.5226
 ---

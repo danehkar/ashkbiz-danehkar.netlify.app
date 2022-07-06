@@ -7,14 +7,14 @@ summary: ''
 authors:
 - Ashkbiz Danehkar
 tags:
-- '"AdS/CFT correspondence"'
-- '"holographic principle"'
-- '"quantum entanglement"'
-- '"Quantum Gravity"'
-- '"Book Review"'
+- AdS/CFT correspondence
+- holographic principle
+- quantum entanglement
+- Quantum Gravity
+- Book Review
 categories: []
 date: '2019-08-01'
-lastmod: 2021-02-18T15:48:36-05:00
+lastmod: 2022-07-06T00:00:52-04:00
 featured: false
 draft: false
 
@@ -32,7 +32,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-02-18T20:48:36.655323Z'
+publishDate: '2022-07-06T04:00:51.952960Z'
 publication_types:
 - '2'
 abstract: ''

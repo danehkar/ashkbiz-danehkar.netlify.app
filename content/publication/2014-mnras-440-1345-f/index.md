@@ -15,14 +15,14 @@ authors:
 - M.~T. Fitzgerald
 - D. Douchin
 tags:
-- '"stars: evolution"'
-- '"stars: Wolf-Rayet"'
-- '"planetary nebulae: general"'
-- '"planetary nebulae: individual: Abell 48"'
-- '"Astrophysics - Solar and Stellar Astrophysics"'
+- 'stars: evolution'
+- 'stars: Wolf-Rayet'
+- 'planetary nebulae: general'
+- 'planetary nebulae: individual: Abell 48'
+- Astrophysics - Solar and Stellar Astrophysics
 categories: []
 date: '2014-05-01'
-lastmod: 2021-02-18T15:48:39-05:00
+lastmod: 2022-07-06T00:00:53-04:00
 featured: false
 draft: false
 
@@ -40,7 +40,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-02-18T20:48:38.938270Z'
+publishDate: '2022-07-06T04:00:53.147623Z'
 publication_types:
 - '2'
 abstract: We have conducted a detailed multi-wavelength study of the peculiar nebula
@@ -67,4 +67,7 @@ abstract: We have conducted a detailed multi-wavelength study of the peculiar ne
   theoretical work is needed to explain these recent discoveries.
 publication: '*Monthly Notices of the Royal Astronomical Society*'
 doi: 10.1093/mnras/stu198
+links:
+- name: arXiv
+  url: https://arxiv.org/abs/1301.3994
 ---

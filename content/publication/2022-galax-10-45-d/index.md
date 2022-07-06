@@ -15,7 +15,7 @@ tags:
 - Astrophysics - Astrophysics of Galaxies
 categories: []
 date: '2022-03-01'
-lastmod: 2022-07-05T23:48:42-04:00
+lastmod: 2022-07-06T00:00:51-04:00
 featured: false
 draft: false
 
@@ -33,7 +33,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-07-06T03:48:42.879269Z'
+publishDate: '2022-07-06T04:00:51.362700Z'
 publication_types:
 - '2'
 abstract: Integral field unit (IFU) spectroscopy of planetary nebulae (PNe) provides

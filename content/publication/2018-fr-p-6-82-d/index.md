@@ -7,14 +7,14 @@ summary: ''
 authors:
 - Ashkbiz Danehkar
 tags:
-- '"gauge/gravity duality"'
-- '"AdS/CFT correspondence"'
-- '"textbook"'
-- '"graduate students"'
-- '"Book Review"'
+- gauge/gravity duality
+- AdS/CFT correspondence
+- textbook
+- graduate students
+- Book Review
 categories: []
 date: '2018-08-01'
-lastmod: 2021-02-18T15:48:37-05:00
+lastmod: 2022-07-06T00:00:52-04:00
 featured: false
 draft: false
 
@@ -32,7 +32,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-02-18T20:48:37.374931Z'
+publishDate: '2022-07-06T04:00:52.319302Z'
 publication_types:
 - '2'
 abstract: ''

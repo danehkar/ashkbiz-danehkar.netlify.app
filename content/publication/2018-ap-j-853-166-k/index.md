@@ -15,14 +15,14 @@ authors:
 - Joseph Neilsen
 - Andrew Young
 tags:
-- '"galaxies: active"'
-- '"galaxies: individual: PG 1211+143"'
-- '"galaxies: nuclei"'
-- '"galaxies: Seyfert"'
-- '"Astrophysics - High Energy Astrophysical Phenomena"'
+- 'galaxies: active'
+- 'galaxies: individual: PG 1211+143'
+- 'galaxies: nuclei'
+- 'galaxies: Seyfert'
+- Astrophysics - High Energy Astrophysical Phenomena
 categories: []
 date: '2018-02-01'
-lastmod: 2021-02-18T15:48:37-05:00
+lastmod: 2022-07-06T00:00:52-04:00
 featured: false
 draft: false
 
@@ -40,7 +40,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-02-18T20:48:37.796701Z'
+publishDate: '2022-07-06T04:00:52.546781Z'
 publication_types:
 - '2'
 abstract: We observed the quasar PG 1211+143 using the Cosmic Origins Spectrograph
@@ -61,4 +61,7 @@ abstract: We observed the quasar PG 1211+143 using the Cosmic Origins Spectrogra
   active galactic nucleus.
 publication: '*The Astrophysical Journal*'
 doi: 10.3847/1538-4357/aaa42b
+links:
+- name: arXiv
+  url: https://arxiv.org/abs/1712.08850
 ---

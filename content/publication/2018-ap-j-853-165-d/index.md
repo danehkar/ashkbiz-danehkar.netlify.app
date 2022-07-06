@@ -18,16 +18,16 @@ authors:
 - Farid Rahoui
 - Randall K. Smith
 tags:
-- '"galaxies: active"'
-- '"galaxies: Seyfert"'
-- '"quasars: absorption lines"'
-- '"quasars: individual: PG 1211+143"'
-- '"X-rays: galaxies"'
-- '"Astrophysics - High Energy Astrophysical Phenomena"'
-- '"Astrophysics - Astrophysics of Galaxies"'
+- 'galaxies: active'
+- 'galaxies: Seyfert'
+- 'quasars: absorption lines'
+- 'quasars: individual: PG 1211+143'
+- 'X-rays: galaxies'
+- Astrophysics - High Energy Astrophysical Phenomena
+- Astrophysics - Astrophysics of Galaxies
 categories: []
 date: '2018-02-01'
-lastmod: 2021-02-18T15:48:38-05:00
+lastmod: 2022-07-06T00:00:52-04:00
 featured: false
 draft: false
 
@@ -45,7 +45,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-02-18T20:48:37.941281Z'
+publishDate: '2022-07-06T04:00:52.629626Z'
 publication_types:
 - '2'
 abstract: We present a detailed X-ray spectral study of the quasar PG 1211+143 based
@@ -70,4 +70,7 @@ abstract: We present a detailed X-ray spectral study of the quasar PG 1211+143 b
   using very- long-baseline interferometric observations.
 publication: '*The Astrophysical Journal*'
 doi: 10.3847/1538-4357/aaa427
+links:
+- name: arXiv
+  url: https://arxiv.org/abs/1712.07118
 ---

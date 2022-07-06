@@ -7,20 +7,20 @@ summary: ''
 authors:
 - Ashkbiz Danehkar
 tags:
-- '"Relativistic cosmology"'
-- '"Weyl curvature"'
-- '"covariant formalism"'
-- '"98.80.-k"'
-- '"98.80.Jk"'
-- '"47.75.+f"'
-- '"Cosmology"'
-- '"Mathematical and relativistic aspects of cosmology"'
-- '"Relativistic fluid dynamics"'
-- '"Physics - General Physics"'
-- '"General Relativity and Quantum Cosmology"'
+- Relativistic cosmology
+- Weyl curvature
+- covariant formalism
+- 98.80.-k
+- 98.80.Jk
+- 47.75.+f
+- Cosmology
+- Mathematical and relativistic aspects of cosmology
+- Relativistic fluid dynamics
+- Physics - General Physics
+- General Relativity and Quantum Cosmology
 categories: []
 date: '2009-12-01'
-lastmod: 2021-02-18T15:48:39-05:00
+lastmod: 2022-07-06T00:00:53-04:00
 featured: false
 draft: false
 
@@ -38,7 +38,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-02-18T20:48:39.511668Z'
+publishDate: '2022-07-06T04:00:53.444926Z'
 publication_types:
 - '2'
 abstract: The Weyl curvature includes the Newtonian field and an additional field,
@@ -50,4 +50,7 @@ abstract: The Weyl curvature includes the Newtonian field and an additional fiel
   nature and radiative solutions of gravitation.
 publication: '*Modern Physics Letters A*'
 doi: 10.1142/S0217732309032046
+links:
+- name: arXiv
+  url: https://arxiv.org/abs/0707.2987
 ---

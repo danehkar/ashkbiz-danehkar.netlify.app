@@ -8,16 +8,16 @@ summary: ''
 authors:
 - Ashkbiz Danehkar
 tags:
-- '"plasma diagnostics"'
-- '"abundance analysis"'
-- '"python"'
-- '"Python"'
-- '"Batchfile"'
-- '"astrophysics"'
-- '"gaseous nebulae"'
+- plasma diagnostics
+- abundance analysis
+- python
+- Python
+- Batchfile
+- astrophysics
+- gaseous nebulae
 categories: []
 date: '2020-11-01'
-lastmod: 2021-02-18T15:48:36-05:00
+lastmod: 2022-07-06T00:00:51-04:00
 featured: false
 draft: false
 
@@ -35,7 +35,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-02-18T20:48:36.228449Z'
+publishDate: '2022-07-06T04:00:51.730795Z'
 publication_types:
 - '2'
 abstract: ''

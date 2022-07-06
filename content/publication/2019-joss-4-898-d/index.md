@@ -7,19 +7,19 @@ summary: ''
 authors:
 - Ashkbiz Danehkar
 tags:
-- '"spectral analysis"'
-- '"IDL"'
-- '"astrophysics"'
-- '"atomic data"'
-- '"GDL"'
-- '"gaseous nebulae"'
-- '"Prolog"'
-- '"Astrophysics - Instrumentation and Methods for Astrophysics"'
-- '"Astrophysics - Astrophysics of Galaxies"'
-- '"Astrophysics - Solar and Stellar Astrophysics"'
+- spectral analysis
+- IDL
+- astrophysics
+- atomic data
+- GDL
+- gaseous nebulae
+- Prolog
+- Astrophysics - Instrumentation and Methods for Astrophysics
+- Astrophysics - Astrophysics of Galaxies
+- Astrophysics - Solar and Stellar Astrophysics
 categories: []
 date: '2019-03-01'
-lastmod: 2021-02-18T15:48:36-05:00
+lastmod: 2022-07-06T00:00:52-04:00
 featured: false
 draft: false
 
@@ -37,7 +37,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-02-18T20:48:36.797067Z'
+publishDate: '2022-07-06T04:00:52.028190Z'
 publication_types:
 - '2'
 abstract: Spectra emitted from ionized nebulae typically contain collisionally excited
@@ -54,4 +54,7 @@ abstract: Spectra emitted from ionized nebulae typically contain collisionally e
   emission lines from ionized gaseous nebulae.
 publication: '*The Journal of Open Source Software*'
 doi: 10.21105/joss.00898
+links:
+- name: arXiv
+  url: https://arxiv.org/abs/1907.02528
 ---

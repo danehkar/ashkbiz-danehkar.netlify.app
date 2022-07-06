@@ -11,13 +11,13 @@ authors:
 - B. Ercolano
 - A.~Y. Kniazev
 tags:
-- '"stars: Wolf-Rayet"'
-- '"ISM: abundances"'
-- '"planetary nebulae: individual: Abell 48"'
-- '"Astrophysics - Solar and Stellar Astrophysics"'
+- 'stars: Wolf-Rayet'
+- 'ISM: abundances'
+- 'planetary nebulae: individual: Abell 48'
+- Astrophysics - Solar and Stellar Astrophysics
 categories: []
 date: '2014-04-01'
-lastmod: 2021-02-18T15:48:39-05:00
+lastmod: 2022-07-06T00:00:53-04:00
 featured: false
 draft: false
 
@@ -35,7 +35,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-02-18T20:48:39.084437Z'
+publishDate: '2022-07-06T04:00:53.219784Z'
 publication_types:
 - '2'
 abstract: Recent observations reveal that the central star of the planetary nebula
@@ -61,4 +61,7 @@ abstract: Recent observations reveal that the central star of the planetary nebu
   M$_☉$) rather than a massive Pop I star.
 publication: '*Monthly Notices of the Royal Astronomical Society*'
 doi: 10.1093/mnras/stu203
+links:
+- name: arXiv
+  url: https://arxiv.org/abs/1403.0567
 ---

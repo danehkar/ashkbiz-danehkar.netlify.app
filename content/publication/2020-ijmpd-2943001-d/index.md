@@ -7,17 +7,17 @@ summary: ''
 authors:
 - A. Danehkar
 tags:
-- '"Gravitomagnetism"'
-- '"Weyl tensor"'
-- '"general relativity"'
-- '"04.20.ensuremath-q"'
-- '"95.30.Sf"'
-- '"Relativity and gravitation"'
-- '"General Relativity and Quantum Cosmology"'
-- '"Astrophysics - High Energy Astrophysical Phenomena"'
+- Gravitomagnetism
+- Weyl tensor
+- general relativity
+- 04.20.ensuremath-q
+- 95.30.Sf
+- Relativity and gravitation
+- General Relativity and Quantum Cosmology
+- Astrophysics - High Energy Astrophysical Phenomena
 categories: []
 date: '2020-01-01'
-lastmod: 2021-02-18T15:48:36-05:00
+lastmod: 2022-07-06T00:00:51-04:00
 featured: false
 draft: false
 
@@ -35,7 +35,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-02-18T20:48:36.509669Z'
+publishDate: '2022-07-06T04:00:51.874472Z'
 publication_types:
 - '2'
 abstract: Local conformal symmetry introduces the conformal curvature (Weyl tensor)
@@ -51,4 +51,7 @@ abstract: Local conformal symmetry introduces the conformal curvature (Weyl tens
   the inclusion of gravitomagnetism on large scales in a perturbed FLRW model.
 publication: '*International Journal of Modern Physics D*'
 doi: 10.1142/S0218271820430014
+links:
+- name: arXiv
+  url: https://arxiv.org/abs/2006.13287
 ---

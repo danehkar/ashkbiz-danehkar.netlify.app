@@ -11,15 +11,15 @@ authors:
 - Herman L. Marshall
 - Michael A. Nowak
 tags:
-- '"galaxies: active"'
-- '"galaxies: nuclei"'
-- '"quasars: absorption lines"'
-- '"X-rays: galaxies"'
-- '"Astrophysics - High Energy Astrophysical Phenomena"'
-- '"Astrophysics - Astrophysics of Galaxies"'
+- 'galaxies: active'
+- 'galaxies: nuclei'
+- 'quasars: absorption lines'
+- 'X-rays: galaxies'
+- Astrophysics - High Energy Astrophysical Phenomena
+- Astrophysics - Astrophysics of Galaxies
 categories: []
 date: '2019-03-01'
-lastmod: 2021-02-18T15:48:37-05:00
+lastmod: 2022-07-06T00:00:52-04:00
 featured: false
 draft: false
 
@@ -37,7 +37,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-02-18T20:48:36.940820Z'
+publishDate: '2022-07-06T04:00:52.097821Z'
 publication_types:
 - '2'
 abstract: We present the spectral analysis of Chandra/High Energy Transmission Grating
@@ -57,4 +57,7 @@ abstract: We present the spectral analysis of Chandra/High Energy Transmission G
   of PDS 456 through feedback from active galactic nuclei.
 publication: '*The Astrophysical Journal*'
 doi: 10.3847/1538-4357/ab0082
+links:
+- name: arXiv
+  url: https://arxiv.org/abs/1901.06641
 ---

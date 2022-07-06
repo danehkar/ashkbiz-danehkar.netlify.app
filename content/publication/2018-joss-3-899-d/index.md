@@ -7,16 +7,16 @@ summary: ''
 authors:
 - Ashkbiz Danehkar
 tags:
-- '"Astrophysics"'
-- '"Gaseous Nebulae"'
-- '"Plasma Diagnostics"'
-- '"Abundance Analysis"'
-- '"IDL"'
-- '"GDL"'
-- '"Astrophysics - Instrumentation and Methods for Astrophysics"'
+- Astrophysics
+- Gaseous Nebulae
+- Plasma Diagnostics
+- Abundance Analysis
+- IDL
+- GDL
+- Astrophysics - Instrumentation and Methods for Astrophysics
 categories: []
 date: '2018-12-01'
-lastmod: 2021-02-18T15:48:37-05:00
+lastmod: 2022-07-06T00:00:52-04:00
 featured: false
 draft: false
 
@@ -34,7 +34,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-02-18T20:48:37.233990Z'
+publishDate: '2022-07-06T04:00:52.244649Z'
 publication_types:
 - '2'
 abstract: The emission lines emitted from gaseous nebulae carry valuable information
@@ -52,4 +52,7 @@ abstract: The emission lines emitted from gaseous nebulae carry valuable informa
   gaseous nebulae observed using integral field spectroscopy.
 publication: '*The Journal of Open Source Software*'
 doi: 10.21105/joss.00899
+links:
+- name: arXiv
+  url: https://arxiv.org/abs/1812.01605
 ---

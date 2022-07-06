@@ -11,15 +11,15 @@ authors:
 - J.~J. Drake
 - V.~L. Kashyap
 tags:
-- '"accretion"'
-- '"accretion discs"'
-- '"binaries: symbiotic"'
-- '"stars: individual: (RT Cru)"'
-- '"Astrophysics - High Energy Astrophysical Phenomena"'
-- '"Astrophysics - Solar and Stellar Astrophysics"'
+- accretion
+- accretion discs
+- 'binaries: symbiotic'
+- 'stars: individual: (RT Cru)'
+- Astrophysics - High Energy Astrophysical Phenomena
+- Astrophysics - Solar and Stellar Astrophysics
 categories: []
 date: '2021-02-01'
-lastmod: 2021-02-18T15:48:36-05:00
+lastmod: 2022-07-06T00:00:51-04:00
 featured: false
 draft: false
 
@@ -37,7 +37,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-02-18T20:48:36.080767Z'
+publishDate: '2022-07-06T04:00:51.656755Z'
 publication_types:
 - '2'
 abstract: RT Cru belongs to the rare class of hard X-ray emitting symbiotics, whose
@@ -61,4 +61,7 @@ abstract: RT Cru belongs to the rare class of hard X-ray emitting symbiotics, wh
   of a jet that deserves further evaluations using high-resolution imaging observations.
 publication: '*Monthly Notices of the Royal Astronomical Society*'
 doi: 10.1093/mnras/staa3554
+links:
+- name: arXiv
+  url: https://arxiv.org/abs/2011.07390
 ---
