@@ -17,7 +17,7 @@ tags:
 - Astrophysics - Solar and Stellar Astrophysics
 categories: []
 date: '2014-04-01'
-lastmod: 2022-07-06T00:07:05-04:00
+lastmod: 2023-04-13T21:38:53-04:00
 featured: false
 draft: false
 
@@ -35,7 +35,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-07-06T04:07:05.374053Z'
+publishDate: '2023-04-14T01:38:53.849154Z'
 publication_types:
 - '2'
 abstract: Recent observations reveal that the central star of the planetary nebula
@@ -57,8 +57,8 @@ abstract: Recent observations reveal that the central star of the planetary nebu
   in our model. It is found that the observed nebular line fluxes were best reproduced
   by using a hydrogen-deficient expanding model atmosphere as the ionizing source
   with an effective temperature of T$_eff$ = 70 kK and a stellar luminosity of L$_ensuremath⋆$
-  = 5500 L$_☉$, which corresponds to a relatively low-mass progenitor star (ensuremath∼3
-  M$_☉$) rather than a massive Pop I star.
+  = 5500 L$_ensuremathødot$, which corresponds to a relatively low-mass progenitor
+  star (ensuremath∼3 M$_ensuremathødot$) rather than a massive Pop I star.
 publication: '*Monthly Notices of the Royal Astronomical Society*'
 doi: 10.1093/mnras/stu203
 links:

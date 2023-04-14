@@ -15,7 +15,7 @@ tags:
 - Astrophysics - Solar and Stellar Astrophysics
 categories: []
 date: '2015-04-01'
-lastmod: 2022-07-06T00:07:05-04:00
+lastmod: 2023-04-13T21:38:53-04:00
 featured: false
 draft: false
 
@@ -33,7 +33,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-07-06T04:07:05.208294Z'
+publishDate: '2023-04-14T01:38:53.708308Z'
 publication_types:
 - '2'
 abstract: We have performed integral field spectroscopy of the planetary nebulae Hen
@@ -42,8 +42,8 @@ abstract: We have performed integral field spectroscopy of the planetary nebulae
   stars. The spatially resolved velocity distributions of the Hensuremathα emission
   line were used to determine their primary orientations. The integrated Hensuremathα
   emission profiles indicate that Hen 3-1333 and Hen 2-113 expand with velocities
-  of ~32 and 23 km s$^-1$, respectively. The Hubble Space Telescope observations suggest
-  that these planetary nebulae have two pairs of tenuous lobes extending upwardly
+  of ensuremath∼32 and 23 km s$^-1$, respectively. The Hubble Space Telescope observations
+  suggest that these planetary nebulae have two pairs of tenuous lobes extending upwardly
   from their bright compact cores. From three-dimensional geometric models, the primary
   lobes of Hen 3-1333 and Hen 2-113 were found to have inclination angles of about
   -30° and 40° relative to the line of sight, and position angles of -15° and 65°

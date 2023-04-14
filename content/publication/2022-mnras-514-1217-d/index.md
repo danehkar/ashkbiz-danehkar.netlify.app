@@ -16,7 +16,7 @@ tags:
 - Astrophysics - Astrophysics of Galaxies
 categories: []
 date: '2022-07-01'
-lastmod: 2022-07-06T00:07:03-04:00
+lastmod: 2023-04-13T21:38:51-04:00
 featured: false
 draft: false
 
@@ -34,7 +34,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-07-06T04:07:03.203094Z'
+publishDate: '2023-04-14T01:38:51.753736Z'
 publication_types:
 - '2'
 abstract: 'The planetary nebula (PN) IC 4997 is one of a few rapidly evolving objects
@@ -48,12 +48,12 @@ abstract: 'The planetary nebula (PN) IC 4997 is one of a few rapidly evolving ob
   of åisebox-0.5ex~11 000 and i̊sebox-0.5ex~7000 K were obtained from helium and heavy
   element ORLs, respectively. The elemental abundances deduced from CELs point to
   a metal-poor progenitor with [O/H] ensuremathłesssim -0.75, whereas the ORL abundances
-  are slightly above the solar metallicity, [O/H] ≍ 0.15. Our abundance analysis indicates
-  that the abundance discrepancy factors (ADFs ensuremath≡ ORLs/CELs) of this PN are
-  relatively large: ADF(O$^2+$) ensuremathgtrsim 8 and ADF(N$^2+$) ensuremathgtrsim
-  7. Further research is needed to find out how the ADFs and variable emissions are
-  formed in this object and whether they are associated with a binary companion or
-  a very late thermal pulse.'
+  are slightly above the solar metallicity, [O/H] ensuremath≈ 0.15. Our abundance
+  analysis indicates that the abundance discrepancy factors (ADFs ensuremath≡ ORLs/CELs)
+  of this PN are relatively large: ADF(O$^2+$) ensuremathgtrsim 8 and ADF(N$^2+$)
+  ensuremathgtrsim 7. Further research is needed to find out how the ADFs and variable
+  emissions are formed in this object and whether they are associated with a binary
+  companion or a very late thermal pulse.'
 publication: '*Monthly Notices of the Royal Astronomical Society*'
 doi: 10.1093/mnras/stac1364
 links:

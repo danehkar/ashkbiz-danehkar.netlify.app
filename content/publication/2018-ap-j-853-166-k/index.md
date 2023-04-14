@@ -22,7 +22,7 @@ tags:
 - Astrophysics - High Energy Astrophysical Phenomena
 categories: []
 date: '2018-02-01'
-lastmod: 2022-07-06T00:07:04-04:00
+lastmod: 2023-04-13T21:38:53-04:00
 featured: false
 draft: false
 
@@ -40,20 +40,20 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-07-06T04:07:04.691858Z'
+publishDate: '2023-04-14T01:38:53.202270Z'
 publication_types:
 - '2'
 abstract: We observed the quasar PG 1211+143 using the Cosmic Origins Spectrograph
   on the Hubble Space Telescope in 2015 April as part of a joint campaign with the
   Chandra X-ray Observatory and the Jansky Very Large Array. Our ultraviolet spectra
-  cover the wavelength range 912-2100 ̊A. We find a broad absorption feature (~ 1080
-  km s$^-1$) at an observed wavelength of 1240 Å. Interpreting this as H I Lyensuremathα,
+  cover the wavelength range 912-2100 ̊A. We find a broad absorption feature (ensuremath∼
+  1080 km s$^-1$) at an observed wavelength of 1240 Å. Interpreting this as H I Lyensuremathα,
   in the rest frame of PG 1211+143 (z = 0.0809), this corresponds to an outflow velocity
-  of -16,980 km s$^-1$ (outflow redshift z$_out$~ -0.0551), matching the moderate
-  ionization X-ray absorption system detected in our Chandra observation and reported
-  previously by Pounds et al. With a minimum H I column density of log N$_H$I$gt$
-  14.5, and no absorption in other UV resonance lines, this Lyensuremathα absorber
-  is consistent with arising in the same ultrafast outflow as the X-ray absorbing
+  of -16,980 km s$^-1$ (outflow redshift z$_out$ensuremath∼ -0.0551), matching the
+  moderate ionization X-ray absorption system detected in our Chandra observation
+  and reported previously by Pounds et al. With a minimum H I column density of log
+  N$_H$I> 14.5, and no absorption in other UV resonance lines, this Lyensuremathα
+  absorber is consistent with arising in the same ultrafast outflow as the X-ray absorbing
   gas. The Lyensuremathα feature is weak or absent in archival ultraviolet spectra
   of PG 1211+143, strongly suggesting that this absorption is transient, and intrinsic
   to PG 1211+143. Such a simultaneous detection in two independent wavebands for the

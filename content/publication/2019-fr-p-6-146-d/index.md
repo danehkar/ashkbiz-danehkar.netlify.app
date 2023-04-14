@@ -14,7 +14,7 @@ tags:
 - gauge fields
 categories: []
 date: '2019-01-01'
-lastmod: 2022-07-06T00:07:04-04:00
+lastmod: 2023-04-13T21:38:52-04:00
 featured: false
 draft: false
 
@@ -32,7 +32,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-07-06T04:07:04.315224Z'
+publishDate: '2023-04-14T01:38:52.827732Z'
 publication_types:
 - '2'
 abstract: Over the past two decades, electric-magnetic duality has made significant
@@ -46,13 +46,13 @@ abstract: Over the past two decades, electric-magnetic duality has made signific
   dual formulations of linearized gravity are written by a 2nd-rank symmetric tensor
   describing the Pauli-Fierz field of the dual graviton in D=4, while we have the
   Curtright field with Young symmetry type (2,1) in D=5. The equations of motion of
-  spin-s fields (s$gt$2) described by the generalized Fronsdal action can also be
-  dualized to the equations of motion of dual spin-s fields. In this review, we focus
-  on dual formulations of gravity and higher spin fields in the linearized theory,
-  and study their SO(2) electric-magnetic duality invariance, twisted self-duality
-  conditions, harmonic conditions for wave solutions, and their configurations with
-  electric-type and magnetic-type sources. Furthermore, we briefly discuss the latest
-  developments in their interacting theories.
+  spin-s fields (s>2) described by the generalized Fronsdal action can also be dualized
+  to the equations of motion of dual spin-s fields. In this review, we focus on dual
+  formulations of gravity and higher spin fields in the linearized theory, and study
+  their SO(2) electric-magnetic duality invariance, twisted self-duality conditions,
+  harmonic conditions for wave solutions, and their configurations with electric-type
+  and magnetic-type sources. Furthermore, we briefly discuss the latest developments
+  in their interacting theories.
 publication: '*Frontiers in Physics*'
 doi: 10.3389/fphy.2018.00146
 ---

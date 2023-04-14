@@ -19,7 +19,7 @@ tags:
 - Astrophysics - Astrophysics of Galaxies
 categories: []
 date: '2019-03-01'
-lastmod: 2022-07-06T00:07:04-04:00
+lastmod: 2023-04-13T21:38:52-04:00
 featured: false
 draft: false
 
@@ -37,7 +37,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-07-06T04:07:04.234237Z'
+publishDate: '2023-04-14T01:38:52.751832Z'
 publication_types:
 - '2'
 abstract: We present the spectral analysis of Chandra/High Energy Transmission Grating

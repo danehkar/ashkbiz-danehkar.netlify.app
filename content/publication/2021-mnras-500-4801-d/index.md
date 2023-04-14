@@ -19,7 +19,7 @@ tags:
 - Astrophysics - Solar and Stellar Astrophysics
 categories: []
 date: '2021-02-01'
-lastmod: 2022-07-06T00:07:03-04:00
+lastmod: 2023-04-13T21:38:52-04:00
 featured: false
 draft: false
 
@@ -37,7 +37,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-07-06T04:07:03.800750Z'
+publishDate: '2023-04-14T01:38:52.328510Z'
 publication_types:
 - '2'
 abstract: RT Cru belongs to the rare class of hard X-ray emitting symbiotics, whose
@@ -47,18 +47,19 @@ abstract: RT Cru belongs to the rare class of hard X-ray emitting symbiotics, wh
   Camera Spectrometer (HRC-S) in 2015 and the High Energy Transmission Grating (HETG)
   on the Advanced CCD Imaging Spectrometer S-array (ACIS-S) in 2005. Our thermal plasma
   modelling of the time-averaged HRC-S/LETG spectrum suggests a mean temperature of
-  kT ~ 1.3 keV, whereas kT ~ 9.6 keV according to the time- averaged ACIS-S/HETG.
-  The soft thermal plasma emission component (~1.3 keV) found in the HRC-S is heavily
-  obscured by dense materials ($gt$5 × 10$^23$ cm$^-2$). The aperiodic variability
-  seen in its light curves could be due to changes in either absorbing material covering
-  the hard X-ray source or intrinsic emission mechanism in the inner layers of the
-  accretion disc. To understand the variability, we extracted the spectra in the 'low/hard'
-  and 'high/soft' spectral states, which indicated higher plasma temperatures in the
-  low/hard states of both the ACIS-S and HRC-S. The source also has a fluorescent
-  iron emission line at 6.4 keV, likely emitted from reflection off an accretion disc
-  or dense absorber, which was twice as bright in the HRC-S epoch compared to the
-  ACIS-S. The soft thermal component identified in the HRC-S might be an indication
-  of a jet that deserves further evaluations using high-resolution imaging observations.
+  kT åisebox-0.5ex~ 1.3 keV, whereas kT i̊sebox-0.5ex~ 9.6 keV according to the time-
+  averaged ACIS-S/HETG. The soft thermal plasma emission component (rs̊ebox-0.5ex~1.3
+  keV) found in the HRC-S is heavily obscured by dense materials (>5 × 10$^23$ cm$^-2$).
+  The aperiodic variability seen in its light curves could be due to changes in either
+  absorbing material covering the hard X-ray source or intrinsic emission mechanism
+  in the inner layers of the accretion disc. To understand the variability, we extracted
+  the spectra in the 'low/hard' and 'high/soft' spectral states, which indicated higher
+  plasma temperatures in the low/hard states of both the ACIS-S and HRC-S. The source
+  also has a fluorescent iron emission line at 6.4 keV, likely emitted from reflection
+  off an accretion disc or dense absorber, which was twice as bright in the HRC-S
+  epoch compared to the ACIS-S. The soft thermal component identified in the HRC-S
+  might be an indication of a jet that deserves further evaluations using high-resolution
+  imaging observations.
 publication: '*Monthly Notices of the Royal Astronomical Society*'
 doi: 10.1093/mnras/staa3554
 links:

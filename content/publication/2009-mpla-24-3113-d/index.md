@@ -20,7 +20,7 @@ tags:
 - General Relativity and Quantum Cosmology
 categories: []
 date: '2009-12-01'
-lastmod: 2022-07-06T00:07:05-04:00
+lastmod: 2023-04-13T21:38:54-04:00
 featured: false
 draft: false
 
@@ -38,7 +38,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-07-06T04:07:05.603596Z'
+publishDate: '2023-04-14T01:38:54.069583Z'
 publication_types:
 - '2'
 abstract: The Weyl curvature includes the Newtonian field and an additional field,

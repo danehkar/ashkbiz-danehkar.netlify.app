@@ -18,10 +18,10 @@ bio: My research interests include observational and theoretical astrophysics.
 
 # Interests to show in About widget
 interests:
-- Nebular Astrophysics
-- Ultra-fast Outflows in AGN
 - Superwinds from Starburst
 - Black Hole Astrophysics
+- Ultra-fast Outflows in AGN
+- Nebular Astrophysics
 
 # Education to show in About widget
 education:
@@ -32,6 +32,9 @@ education:
   - course: MSc in Plasma Physics
     institution: Queen's University Belfast
     year: 2009
+  - course: MSc in Computational and Electrical Eng.
+    institution: University of Rostock
+    year: 2007
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons

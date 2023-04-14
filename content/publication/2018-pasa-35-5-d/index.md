@@ -14,7 +14,7 @@ tags:
 - Astrophysics - Astrophysics of Galaxies
 categories: []
 date: '2018-01-01'
-lastmod: 2022-07-06T00:07:04-04:00
+lastmod: 2023-04-13T21:38:53-04:00
 featured: false
 draft: false
 
@@ -32,7 +32,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-07-06T04:07:04.840307Z'
+publishDate: '2023-04-14T01:38:53.344092Z'
 publication_types:
 - '2'
 abstract: The planetary nebula PB 8 around a [WN/WC]-hybrid central star is one of
@@ -53,8 +53,8 @@ abstract: The planetary nebula PB 8 around a [WN/WC]-hybrid central star is one 
   recombination lines, while a dual-dust chemistry with different grain species and
   discrete grain sizes likely produces the infrared continuum of this planetary nebula.
   This study demonstrates that the bi-abundance hypothesis, which was examined in
-  a few planetary nebulae with large abundance discrepancies (ADFs $gt$ 10), could
-  also be applied to those typical planetary nebulae with moderate abundance discrepancies.
+  a few planetary nebulae with large abundance discrepancies (ADFs > 10), could also
+  be applied to those typical planetary nebulae with moderate abundance discrepancies.
 publication: '*Publications of the Astronomical Society of Australia*'
 doi: 10.1017/pasa.2018.1
 links:

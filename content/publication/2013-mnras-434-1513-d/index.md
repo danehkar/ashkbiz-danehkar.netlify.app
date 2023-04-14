@@ -15,7 +15,7 @@ tags:
 - Astrophysics - Solar and Stellar Astrophysics
 categories: []
 date: '2013-09-01'
-lastmod: 2022-07-06T00:07:05-04:00
+lastmod: 2023-04-13T21:38:53-04:00
 featured: false
 draft: false
 
@@ -33,7 +33,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-07-06T04:07:05.445893Z'
+publishDate: '2023-04-14T01:38:53.921246Z'
 publication_types:
 - '2'
 abstract: The planetary nebula SuWt 2 (PN G311.0+02.4) is an unusual object with a
@@ -55,9 +55,10 @@ abstract: The planetary nebula SuWt 2 (PN G311.0+02.4) is an unusual object with
   undergone a very late thermal pulse. We conclude that the ionizing star could be
   hydrogen deficient and compatible with what is known as a PG 1159-type star. The
   evolutionary tracks for the very late thermal pulse models imply a central star
-  mass of ensuremath∼0.64 M$_☉$, which originated from an ensuremath∼3 M$_☉$ progenitor.
-  The evolutionary time- scales suggest that the central star left the asymptotic
-  giant branch about 25 000 yr ago, which is consistent with the nebula's age.
+  mass of ensuremath∼0.64 M$_ensuremathødot$, which originated from an ensuremath∼3
+  M$_ensuremathødot$ progenitor. The evolutionary time- scales suggest that the central
+  star left the asymptotic giant branch about 25 000 yr ago, which is consistent with
+  the nebula's age.
 publication: '*Monthly Notices of the Royal Astronomical Society*'
 doi: 10.1093/mnras/stt1116
 links:

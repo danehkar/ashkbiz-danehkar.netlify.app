@@ -10,14 +10,14 @@ tags:
 - Gravitomagnetism
 - Weyl tensor
 - general relativity
-- 04.20.ensuremath-q
+- 04.20.‑q
 - 95.30.Sf
 - Relativity and gravitation
 - General Relativity and Quantum Cosmology
 - Astrophysics - High Energy Astrophysical Phenomena
 categories: []
 date: '2020-01-01'
-lastmod: 2022-07-06T00:07:04-04:00
+lastmod: 2023-04-13T21:38:52-04:00
 featured: false
 draft: false
 
@@ -35,7 +35,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-07-06T04:07:04.014814Z'
+publishDate: '2023-04-14T01:38:52.545798Z'
 publication_types:
 - '2'
 abstract: Local conformal symmetry introduces the conformal curvature (Weyl tensor)
