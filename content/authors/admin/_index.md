@@ -26,13 +26,13 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Physics and Astronomy
+  - course: PhD Physics and Astronomy
     institution: Macquarie University
     year: 2014
-  - course: MSc in Plasma Physics
+  - course: MS Plasma Physics
     institution: Queen's University Belfast
     year: 2009
-  - course: MSc in Computational Electrical
+  - course: MS Computational Electrical Eng
     institution: University of Rostock
     year: 2007
 
