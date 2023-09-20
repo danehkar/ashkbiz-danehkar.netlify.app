@@ -46,13 +46,13 @@ experience:
     date_end: '2018-08-31'
     description: X-ray spectral data analysis and photoionization modeling of X-ray outflows of Seyfert I AGN.
     
-  - title: PhD Student
-    company: Macquarie University
-    company_url: ''
-    location: Sydney, Australia
-    date_start: '2010-04-01'
-    date_end: '2014-05-24'
-    description: Plasma diagnostics and 3-D photoionization modeling of nebular emission lines, and IFU spectroscopy of ionized nebulae.
+#  - title: PhD Student
+#    company: Macquarie University
+#    company_url: ''
+#    location: Sydney, Australia
+#    date_start: '2010-04-01'
+#    date_end: '2014-05-24'
+#    description: Plasma diagnostics and 3-D photoionization modeling of nebular emission lines, and IFU spectroscopy of ionized nebulae.
 ---
 <!--  - title: CEO
     company: GenCoin

@@ -39,12 +39,12 @@ item:
   organization_url: ""
   title: 'Applied Data Science with Python, Specialization Certificate'
   url: ""
-- certificate_url: https://coursera.org/verify/specialization/6BU3LF3HVXLT
-  date_end: ""
-  date_start: "2020-08-18"
-  description: ""
-  organization: University of Michigan
-  organization_url: ""
-  title: 'Statistics with Python, Specialization Certificate'
-  url: ""
+#- certificate_url: https://coursera.org/verify/specialization/6BU3LF3HVXLT
+#  date_end: ""
+#  date_start: "2020-08-18"
+#  description: ""
+#  organization: University of Michigan
+#  organization_url: ""
+#  title: 'Statistics with Python, Specialization Certificate'
+#  url: ""
 ---
