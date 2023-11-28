@@ -32,7 +32,7 @@ education:
   - course: MS Plasma Physics
     institution: Queen's University Belfast
     year: 2009
-  - course: MS Computational Electrical Eng
+  - course: MS Computational Electrical Eng.
     institution: University of Rostock
     year: 2007
 
