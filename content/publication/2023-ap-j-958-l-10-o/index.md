@@ -6,7 +6,7 @@ title: 'Nebular C IV 1550 Imaging of the Metal-poor Starburst Mrk
 subtitle: ''
 summary: ''
 authors:
-- M.~S. Oey
+- M. S. Oey
 - Amit N. Sawant
 - Ashkbiz Danehkar
 - Sergiy Silich
