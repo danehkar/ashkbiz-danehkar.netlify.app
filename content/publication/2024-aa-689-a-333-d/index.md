@@ -7,7 +7,7 @@ summary: ''
 authors:
 - A. Danehkar
 - S. Silich
-- E.~C. Herenz
+- E. C. Herenz
 - G. Östlin
 tags:
 - 'galaxies: dwarf'

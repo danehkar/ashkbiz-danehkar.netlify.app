@@ -6,8 +6,8 @@ subtitle: ''
 summary: ''
 authors:
 - A. Danehkar
-- J.~J. Drake
-- G.~J.~M. Luna
+- J. J. Drake
+- G. J. M. Luna
 tags:
 - Symbiotic binary stars
 - Stellar accretion
