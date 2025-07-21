@@ -97,7 +97,7 @@ address = {street = "USRA/STI, 320 Sparkman Dr NW", city = "Huntsville", region 
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "34.7258906", longitude = "-86.6540664"}
+coordinates = {latitude = "34.7245297", longitude = "-86.6447852"}
 
 # Directions for visitors to locate you.
 directions = "Huntsville, Alabama"
