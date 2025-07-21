@@ -88,19 +88,19 @@ show_related = {book = true, page = false, post = false, project = false, public
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "danehkar [at] eurekasci [dot] com"
+email = "adanehkar [at] usra [dot] edu"
 phone = "617 955 0606"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "Eureka Scientific, 2452 Delmer St Suite 100", city = "Oakland", region = "CA", postcode = "94602", country = "United States", country_code = "US"}
+address = {street = "USRA/STI, 320 Sparkman Dr NW", city = "Huntsville", region = "AL", postcode = "35805", country = "United States", country_code = "US"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "42.2757556", longitude = "-83.7383928"}
+coordinates = {latitude = "34.7258906", longitude = "-86.6540664"}
 
 # Directions for visitors to locate you.
-directions = "Currently in Ann Arbor, Michigan"
+directions = "Huntsville, Alabama"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
