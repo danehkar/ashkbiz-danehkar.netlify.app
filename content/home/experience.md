@@ -22,12 +22,20 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Space Scientist
+    company: Universities Space Research Association
+    company_url: ''
+    location: Huntsville, AL
+    date_start: '2025-06-01'
+    date_end: ''
+    description: Support NASA's Interagency Implementation and Advanced Concepts Team (IMPACT).
+    
   - title: Research Scientist
     company: Eureka Scientific
     company_url: ''
     location: Oakland, CA
     date_start: '2022-04-01'
-    date_end: ''
+    date_end: '2025-05-31'
     description: Black hole spin measurements and X-ray reflection modeling of accretion disks.
     
   - title: Research Fellow
