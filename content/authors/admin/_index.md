@@ -6,12 +6,12 @@ title: Ashkbiz Danehkar
 superuser: true
 
 # Role/position/tagline
-role: Research Scientist in Astrophysics
+role: Scientist in Astrophysics
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Eureka Scientific, Inc.
-  url: https://www.danehkar.net/
+- name: USRA/STI
+  url: https://sti.usra.edu/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include observational and theoretical astrophysics.
@@ -71,7 +71,7 @@ email: ""
 highlight_name: false
 ---
 
-Ashkbiz Danehkar is a Research Scientist in Astrophysics at Eureka Scientific supported by NASA grants. His research interests include observational and theoretical astrophysics of ionized nebulae, symbiotics, AGN, and starbursts, using multi-wavelength optical, UV and X-ray spectroscopic and imaging observations.
+Ashkbiz Danehkar is a Space Scientist (Astronomy) at the Universities Space Research Association (USRA)'s Science and Technology Institute (STI). His research interests include observational and theoretical astrophysics of ionized nebulae, symbiotics, AGN, and starbursts, using multi-wavelength optical, UV and X-ray spectroscopic and imaging observations.
 
 To perform his research, he uses plasma diagnostics, abundance analysis, photoionization modeling, hydrodynamic simulations, and 3D morpho-kinematic modeling.
 
