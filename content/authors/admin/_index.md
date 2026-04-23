@@ -71,7 +71,7 @@ email: ""
 highlight_name: false
 ---
 
-Ashkbiz Danehkar is a Space Scientist (Astronomy) at the Universities Space Research Association (USRA)'s Science and Technology Institute (STI). His research interests include observational and theoretical astrophysics of ionized nebulae, symbiotics, AGN, and starbursts, using multi-wavelength optical, UV and X-ray spectroscopic and imaging observations.
+Ashkbiz Danehkar is a Scientist (Astronomy) at the Universities Space Research Association (USRA)'s Science and Technology Institute (STI). His research interests include observational and theoretical astrophysics of ionized nebulae, symbiotics, AGN, and starbursts, using multi-wavelength optical, UV and X-ray spectroscopic and imaging observations.
 
 To perform his research, he uses plasma diagnostics, abundance analysis, photoionization modeling, hydrodynamic simulations, and 3D morpho-kinematic modeling.
 
